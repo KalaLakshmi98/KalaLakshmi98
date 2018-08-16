@@ -6,7 +6,7 @@ from random import randint
 import time
 import uuid
 import threading
-sys.path.append(os.path.abspath("../lib"))
+sys.path.append(os.path.abspath("../*"))
 from util import *
 from sampler import *
 
